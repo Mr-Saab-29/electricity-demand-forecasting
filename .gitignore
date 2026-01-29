@@ -1,0 +1,24 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# *.xls
+*.xlsx
+# ~$*.xls*
+/notebooks/
+/mlruns/
+reports/
+/logs/
+main.py
+main_prod.py
+main_local.py
+.DS_Store
+/outputs
+.cache.sqlite
+Data/extracted/
+Data/zip/
