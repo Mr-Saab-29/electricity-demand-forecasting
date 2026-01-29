@@ -40,7 +40,7 @@ Given historical electricity consumption data (national + 12 regions) and weathe
 ---
 
 ## 🏗 Project Structure
-
+```
 .
 ├── Data/
 │ ├── processed/
@@ -69,7 +69,7 @@ Given historical electricity consumption data (national + 12 regions) and weathe
 ├── run_backtest.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
